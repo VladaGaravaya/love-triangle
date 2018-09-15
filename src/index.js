@@ -9,5 +9,5 @@ module.exports = function getLoveTrianglesCount(preferences) {
           count++;
       }
   }
-  return Math.trunc(count/3;
+  return Math.trunc(count/3);
 };
